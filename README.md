@@ -6,6 +6,7 @@ Scan_tcc is an open source project, which makes uso of an open hardware, Raspber
 #### Software
 
 * python >= 3.6
+* pyqt5
 * Qt5
 
 #### Hardware
