@@ -1,5 +1,5 @@
 # Scan_tcc
-Scan_tcc is an open source project, which makes uso of an open hardware, Raspberry Pi 3 and an interface build using Qt5 and coded with Python.
+Scan_tcc is an open source project, which makes use of an open hardware, Raspberry Pi 3 and an interface build using Qt5 and coded with Python.
 
 ### Requirements
 
